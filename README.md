@@ -29,6 +29,5 @@ I enjoy learning how things work, solving programming problems, and building pro
 
 ## Let's Connect
 
-- 💼 LinkedIn: [Iftikhar Bin Tariq](https://www.linkedin.com/in/iftikhar-bin-tariq-5631001b8/)
--  𝕏 X (Twitter): [@IftikharBinTar1](https://x.com/IftikharBinTar1)
+- 💼 LinkedIn: [Iftikhar Bin Tariq](https://www.linkedin.com/in/iftikhar-bin-tariq-5631001b8/
 - 📧 Email: [iftikher794@gmail.com](mailto:iftikher794@gmail.com
