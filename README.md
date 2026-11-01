@@ -10,8 +10,6 @@ I enjoy learning how things work, solving programming problems, and building pro
 
 ## Tools & Tech
 
-## Tools & Tech
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,mysql,git,github,vscode&theme=dark&perline=7" />
 </p>
