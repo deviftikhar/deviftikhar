@@ -12,6 +12,7 @@ I enjoy learning how things work, solving programming problems, and building pro
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,js,mysql,git,github,vscode&theme=dark&perline=7" />
 </p>
+
 ---
 
 ## A Bit About Me
