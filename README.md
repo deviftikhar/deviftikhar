@@ -1,6 +1,6 @@
-# Hey there 👋
+# Hey there, I'm **Iftikhar Bin Tariq**👋
 
-I'm **Iftikhar Bin Tariq**, a Computer Science and Engineering student at **United International University (UIU), Bangladesh**.
+A Computer Science and Engineering student at **United International University (UIU), Bangladesh**.
 
 I'm currently learning **C++, Data Structures & Algorithms, Database Management Systems, and Web Development**.
 
