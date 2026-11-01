@@ -7,13 +7,11 @@ I'm currently learning **C++, Data Structures & Algorithms, Database Management 
 I enjoy learning how things work, solving programming problems, and building projects as I improve my development skills. This is where I'll share my practice, projects, and things I learn along the way.
 
 ---
-
 ## Tools & Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,mysql,git,github,vscode&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,js,mysql,git,github,vscode&theme=dark&perline=7" />
 </p>
-
 ---
 
 ## A Bit About Me
